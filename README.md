@@ -1,5 +1,5 @@
 # BoltWire6.03_File_Upload
-*FOR EDUCATION PURPOSES ONLY*
+*FOR EDUCATIONAL PURPOSES ONLY*
 
 This allows attackers to manually upload a PHP reverse shell on BoltWire 6.03 within the admin panel due to misconfigurations. 
 To do this, admin access is needed and the "/dev/pages/" directory must be accessible through a web browser. 
