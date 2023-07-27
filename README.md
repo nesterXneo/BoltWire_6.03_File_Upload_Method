@@ -4,7 +4,7 @@
 This allows attackers to manually upload a PHP reverse shell on BoltWire 6.03 within the admin panel due to misconfigurations. 
 To do this, admin access is needed and the "/dev/pages/" directory must be accessible through a web browser. 
 
-This was tested on Linux 4.19.0-16-amd64 #1 SMP Debian 4.19.181-1 x86_64 GNU/Linux
+This was tested on Linux 4.19.0-16-amd64 #1 SMP Debian 4.19.181-1 x86_64 GNU/Linux.
 
 Step 1: Login to admin page
 ![image](https://github.com/nesterXneo/BoltWire6.03_File_Upload/assets/52898555/c7c789aa-387c-43d0-89a3-b4849576a977)
