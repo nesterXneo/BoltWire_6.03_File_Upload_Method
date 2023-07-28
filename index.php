@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <meta name="google-site-verification" content="QmuqAQVEJ4Yq7qUCaHYHKyrRqpIY6bqAFzbJEMNQsiQ" /> 
+    <meta name="google-site-verification" content="QmuqAQVEJ4Yq7qUCaHYHKyrRqpIY6bqAFzbJEMNQsiQ" />
     <title>Simple HTML Document with Head Variable</title>
     <!-- Define a custom variable in the head section -->
     <script>
@@ -18,3 +18,4 @@
     </script>
 </body>
 </html>
+
