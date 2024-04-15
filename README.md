@@ -1,4 +1,4 @@
-# BoltWire_6.03_File_Upload_Exploit
+# BoltWire_6.03_File_Upload_Method
 *FOR EDUCATIONAL PURPOSES ONLY*
 
 This allows attackers to manually upload a PHP reverse shell on BoltWire 6.03 within the admin panel. 
