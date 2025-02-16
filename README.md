@@ -1,10 +1,10 @@
-# BoltWire_6.03_File_Upload_Method
+# BoltWire Post Compromise to RCE Method
 *FOR EDUCATIONAL PURPOSES ONLY*
 
-This allows attackers to manually upload a PHP reverse shell on BoltWire 6.03 within the admin panel. 
+This allows attackers to manually upload a PHP reverse shell on BoltWire within the admin panel. 
 To do this, admin access is required and the "/dev/pages/" directory must be accessible through a web browser. 
 
-This was tested on Linux 4.19.0-16-amd64 #1 SMP Debian 4.19.181-1 x86_64 GNU/Linux.
+This was tested on BoltWire 6.03.
 
 Step 1: Login to admin page
 ![admin](https://github.com/nesterXneo/BoltWire_6.03_File_Upload/assets/52898555/29d32728-f490-46de-9809-ee51d3659701)
